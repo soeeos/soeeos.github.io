@@ -1,0 +1,78 @@
+.legs	{
+		/*
+		
+		width: 1193.33px;
+		position: fixed;
+	  	left: 50%;
+	  	top: 50%;
+	  	margin-right: 59.666px;
+	  	border-radius: 1000px;
+	  	*/
+	border-radius: 50%;
+	height: 100vh;
+	position: center;
+	size: fixed;
+	}
+button {
+	font-size: 100px;
+	margin-top: 100px;
+	size: 100px
+	}
+.container {
+	position: relative;
+	text-align: center;
+	color: white;
+
+	 }
+
+.centered {
+	position: absolute;
+	top: 55%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	}
+
+button {
+	background-color: white;
+	}
+
+.welcome-btn {
+	background-color: rgba(255, 255, 255, .3);
+	font-size: 30px;
+	font-family: 'Barlow Condensed', sans-serif;	
+	}
+
+.quote {
+	font-family: 'Playfair Display', serif;
+	color: black;
+	padding-bottom: 0px;
+	font-size: 30px;
+}
+.socialmedia:hover {
+	background-color: #CE9C9A;
+}
+.iconbar {
+	height: 45px;
+	background-color: black;
+
+}
+.iconbar a i {
+	color: white;
+	padding-top: 14px;
+	
+
+}
+.searchicon {
+	padding-left: 1230px; 
+}
+
+.facebook:hover {
+	background-color: #CE9C9A;
+}
+.facebook {
+	padding-left: 15px;
+}
+.instagram {
+	padding-left: 15px;
+	padding-right: 15px;
+}

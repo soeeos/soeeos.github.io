@@ -1,0 +1,16 @@
+.search-btn {
+	background-color: black;
+    border-color: white;
+}
+
+.search-btn:hover {
+	background-color: #CE9C9A;
+	border-color: white;
+}
+.dropdown-menu {
+	background-color: black;
+}
+.dropdown-item {
+	background-color: black;
+}
+
