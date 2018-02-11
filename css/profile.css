@@ -1,10 +1,10 @@
 .search-btn {
-	background-color: black;
+	background-color: #CE9C9A;
     border-color: white;
 }
 
 .search-btn:hover {
-	background-color: #CE9C9A;
+	background-color: black;
 	border-color: white;
 }
 .dropdown-menu {

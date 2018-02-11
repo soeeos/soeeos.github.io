@@ -53,26 +53,38 @@ button {
 }
 .iconbar {
 	height: 45px;
-	background-color: black;
+	background-color: #CE9C9A;
 
 }
 .iconbar a i {
 	color: white;
 	padding-top: 14px;
 	
-
 }
 .searchicon {
-	padding-left: 1230px; 
+	padding-left: 770px; 
+
 }
 
-.facebook:hover {
-	background-color: #CE9C9A;
-}
 .facebook {
-	padding-left: 15px;
+	padding-left: 20px;
 }
 .instagram {
+	padding-left: 30px;
+	padding-right: 0px;
+}
+.pinterest {
 	padding-left: 15px;
-	padding-right: 15px;
+	
+}
+.twitter {
+	padding-left: 15px;
+	
+}
+.linkedin {
+	padding-left: 30px;
+	
+}
+body {
+	background-color: white;
 }
